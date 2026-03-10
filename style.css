@@ -1,0 +1,44 @@
+body {
+  background-color: #f5efe6;  
+  font-family: Helvetica, Arial, sans-serif;
+  color: #333333;
+  font-size: 17px;
+  line-height: 1.6;
+  text-align: center;
+}
+
+h1, h2 {
+  font-family: "Times New Roman", serif;
+  color: #8B0000; 
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+
+img {
+  width: 150px;
+  border-radius: 15px;
+}
+
+a {
+  color: #8B0000;
+  text-decoration: none;
+  transition: color 0.3s ease;
+  text-align: left;
+}
+
+a:first-of-type {
+  color: blue;
+  display: block;
+  text-align: left;
+}
+
+a:hover {
+  color: #c0392b;
+}
